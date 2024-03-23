@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-quiz-details-client-side-solution",
+    "id": "327a256a-d798-4a9c-adf5-b0b569410666",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-fx-quiz-details description"
+      },
+      "longDescription": {
+        "default": "sp-fx-quiz-details description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-fx-quiz-details Feature",
+        "description": "The feature that activates elements of the sp-fx-quiz-details solution.",
+        "id": "3b665d22-4e14-4b56-8d67-b84475cdabd9",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-quiz-details.sppkg"
+  }
+}
